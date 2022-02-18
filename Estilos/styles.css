@@ -13,6 +13,10 @@ body {
     border: 1px solid #ddd;
     margin: 0 auto;
 }
+#imagen{
+    height: 500px;
+    width: 500px;
+}
 
 #cabecera{
     font-size: 22px;
