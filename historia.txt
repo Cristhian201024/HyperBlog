@@ -7,3 +7,5 @@ es decir con todo en contra xD
 en el camino encontro dificultades, pero nada fue imposible y supero las adversidades
 
 voy a borrar este archivo despues de guardarlo y lo recuperare
+
+modifique la historia en el header para ver que pasaba en la consola
