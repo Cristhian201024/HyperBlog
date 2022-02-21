@@ -10,4 +10,6 @@ voy a borrar este archivo despues de guardarlo y lo recuperare
 
 Master 1
 
+master 2
+
 modifique la historia en el header para ver que pasaba en la consola
